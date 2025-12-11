@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "KLC7_1x06")(type "KiCad")(uri "${KIPRJMOD}/KLC7_1x06.pretty")(options "")(descr ""))
+  (lib (name "ADS1263_socket")(type "KiCad")(uri "${KIPRJMOD}/ADS1263_socket.pretty")(options "")(descr ""))
+)
